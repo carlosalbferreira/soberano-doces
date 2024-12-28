@@ -1,0 +1,16 @@
+.ul-list {
+    display: flex;
+    justify-content:flex-start;
+    list-style-type: none;
+}
+
+.list-menu {
+    padding-right: 40px;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
